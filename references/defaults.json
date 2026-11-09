@@ -1,0 +1,10 @@
+{
+  "project": "fuji",
+  "source": "/home/chenrongjun/fuji",
+  "config": "configs/apollo5/apollo330_fuji_defconfig",
+  "sport": "SPORT_TYPE_FREE_TRAINING",
+  "duration_seconds": 3600,
+  "origin": "manual",
+  "sync": "not_synced",
+  "heart_rate": 120
+}

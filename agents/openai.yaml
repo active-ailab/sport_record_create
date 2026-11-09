@@ -1,0 +1,4 @@
+interface:
+  display_name: "无屏手环运动记录自动生成"
+  short_description: "按项目源码定制各类运动和活动识别数据，支持同步状态、分组与明细合并"
+  default_prompt: "使用 $screenless-sport-record-generator 按要求定制运动或活动识别记录，缺失参数先询问，无回答使用默认值。"
